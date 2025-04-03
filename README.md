@@ -1,4 +1,4 @@
 # tejas-sawarkar-name
 this is my first time creating a repository
 <br>
-Author - Tejas Sawarkar
+Author - Tejas Yuwraj Sawarkar
